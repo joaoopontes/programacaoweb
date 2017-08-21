@@ -5,7 +5,7 @@ ProgramacaoWeb
 <html>
 <head>
   <title>
-    Minha Página
+    Curriculo
   </title>
 </head>
 <body text = "white" bgcolor = "black">
